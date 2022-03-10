@@ -1,0 +1,26 @@
+@media screen and (max-width: 994px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fa8072;
+}
+#Galeri {
+  background-color: #fa8072;
+}
+
+section {
+  padding-top: 10rem;
+}
+
+.card {
+  border-radius: 30px;
+}
+
+img {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
